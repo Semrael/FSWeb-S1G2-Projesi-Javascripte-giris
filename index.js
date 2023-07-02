@@ -36,7 +36,7 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
-let birincideger = 12;
+let birincideger = 17;
 const ikincideger = -19;
 if (birincideger > ikincideger) {
   birincideger = ikincideger;
